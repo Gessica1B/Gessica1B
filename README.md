@@ -1,0 +1,3 @@
+- 👋 olá, meu nome é @Gessica1B
+- 👀 Eu estou interessada em aprender a programar novas linguagens
+- 🌱 Eu estou aprendendo a programar JavaScript e Scratch
